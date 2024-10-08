@@ -1,0 +1,19 @@
+,count,unique,top,freq
+EmployeeId,1470,1470,34320d20-cf61-4900-9450-c8539f23b355,1
+Education,1260,5,Bachelor,479
+EducationField,1470,6,Life Sciences,606
+Gender,1470,2,Male,882
+MaritalStatus,1470,3,Married,673
+DateEmployment,1470,1467,2001-12-21 11:10:19,2
+Over18,1161,1,Y,1161
+Country,1470,70,Noruega,46
+Attrition,1470,2,No,1233
+BusinessTravel,1323,3,Travel_Rarely,941
+Department,1470,3,Research & Development,961
+JobRole,1470,9,Sales Executive,326
+OverTime,1470,2,No,1054
+EnvironmentSatisfaction,1470,4,High,453
+JobInvolvement,1470,4,High,868
+JobSatisfaction,1279,4,Very High,400
+PerformanceRating,1470,2,Excellent,1244
+RelationshipSatisfaction,1439,4,High,450
