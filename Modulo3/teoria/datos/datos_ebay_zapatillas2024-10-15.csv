@@ -1,61 +1,61 @@
 ,nombre_zapatillas,precio_min,precio_max,diferencia,fecha_recoleccion
-0,Adidas Originales BERN GTX Gore-Tex Max Morlock Hombres Informales Estilo de Vida Zapatos IF3800,166.27,166.27,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-1,Adidas Zapatos de Fútbol F50 LEAGUE TF Core Negro/Hierro Metálico/Dorado Metálico IF1337,123.19,123.19,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+0,adidas Adizero Aruku Grey Cream Men Road Running Jogging Shoes JQ7391,152.0,152.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+1,Adidas Adizero Aruku Gris Crema Hombres Carretera Correr Zapatos para Correr JQ7391,177.36,177.36,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 2,Adidas Terrex Tracerocker 2 GORE-TEX Hombre Negro Zapatos Trekking GZ8910,126.97,126.97,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-3,adidas Originals BERN GTX Gore-Tex Max Morlock Men Casual LifeStyle Shoes IF3800,150.99,150.99,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-4,Adidas Adizero Ubersonic 4.1 Cristal Blanco Semi Flash Aqua IF0445 Hombres Talla,163.58,163.58,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-5,Zapatillas de cuero unisex Adidas Originals Superstar 82 GZ4837 blancas beige talla a elegir,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-6,Zapatillas para hombre adidas Originals Forum 84 Low x M&M NUEVAS,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-7,Adidas Attitude Ivory Team College Borgoña IF6280 Hombres Talla,174.14,174.14,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-8,Adidas PRIMEKNIT Hombres 12 ULTRABOOST 22 ZAPATILLAS PARA CORRER Linear Energy Negro HQ0965,160.74,160.74,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-9,Adidas Originales Tobacco Night Indigo JR2743,141.46,206.5,65.03999999999999,<built-in method now of type object at 0x00007FFAF86A12B0>
-10,Adidas Originales SL 72 RS Bob Marley One Love JR7973,187.27,277.05,89.78,<built-in method now of type object at 0x00007FFAF86A12B0>
-11,Zapatillas hombre adidas NMD V3 Gore-Tex GTX impermeables (HP7778) NUEVAS,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-12,[EF4366] Adidas ZX 8000 para hombre,111.94,111.94,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-13,adidas Originals BERN GTX Gore-Tex Max Morlock Men Casual LifeStyle Shoes IF3800,170.75,170.75,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-14,Adidas Harden Volumen 7 Núcleo Negro Blanco Zapatos Atléticos Para Hombre Talla 9.5-15 (HP3021),178.64,242.78,64.14000000000001,<built-in method now of type object at 0x00007FFAF86A12B0>
-15,Scarpe adidas originals superstar uomo donna bambino cod509fi cod594fi,59.99,100.0,40.01,<built-in method now of type object at 0x00007FFAF86A12B0>
-16,Adidas Originals Adistar Amortiguador Zapatos en Blanco y Claro Azul,175.68,175.68,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-17,Adidas Originals Gazelle Zapatillas En Verde y Negro Talla UK 13,167.22,167.22,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+3,Adidas Adizero Ubersonic 4.1 Cristal Blanco Semi Flash Aqua IF0445 Hombres Talla,163.58,163.58,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+4,adidas Adizero Aruku Grey Cream Men Road Running Jogging Shoes JQ7391,176.73,176.73,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+5,Adidas Zapatos de Fútbol F50 LEAGUE TF Core Negro/Hierro Metálico/Dorado Metálico IF1337,123.19,123.19,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+6,Adidas Attitude Ivory Team College Borgoña IF6280 Hombres Talla,174.14,174.14,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+7,Zapatillas de cuero unisex Adidas Originals Superstar 82 GZ4837 blancas beige talla a elegir,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+8,Zapatillas para hombre adidas Originals Forum 84 Low x M&M NUEVAS,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+9,Scarpe adidas originals superstar uomo donna bambino cod509fi cod594fi,59.99,100.0,40.01,<built-in method now of type object at 0x00007FFAF86A12B0>
+10,adidas Adizero Adios Pro 3 M Aurora Ink Flash Aqua Men Racing Running IE6237,240.0,240.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+11,adidas Adizero Adios Pro 3 M Cobalt Blue Lucid Lemon Men Racing Running ID3635,240.0,240.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+12,adidas Originals BERN GTX Gore-Tex Max Morlock Men Casual LifeStyle Shoes IF3800,177.0,177.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+13,adidas Originals Samba OG Grey Crystal White Blue Gum Men Unisex Casual ID1478,147.62,147.62,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+14,Zapatillas hombre adidas NMD V3 Gore-Tex GTX impermeables (HP7778) NUEVAS,100.0,100.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+15,[EF4366] Adidas ZX 8000 para hombre,111.94,111.94,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+16,Adidas Harden Volumen 7 Núcleo Negro Blanco Zapatos Atléticos Para Hombre Talla 9.5-15 (HP3021),178.64,242.78,64.14000000000001,<built-in method now of type object at 0x00007FFAF86A12B0>
+17,adidas Originals Samba OG Grey Crystal White Blue Gum Men Unisex Casual ID1478,148.83,148.83,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 18,IG4552 Adidas Originals New York Grey (para hombre),149.85,254.02,104.17000000000002,<built-in method now of type object at 0x00007FFAF86A12B0>
 19,Adidas Yeezy Foam Runner Onyx HP8739 2024 US Men Size 11 12 13 NEW YZY RNNR,120.6,120.6,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-20,Botines de fútbol Adidas Predator Edge.1 Low SG blancos solares amarillos GW1014 talla 10,121.93,121.93,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+20,adidas Originals Samba OG White Crew Yellow Gum Men Unisex Casual Shoes ID1479,154.88,154.88,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 21,IE7564 Homer Simpson × Adidas Originales Stan Smith Verde,137.98,377.38,239.4,<built-in method now of type object at 0x00007FFAF86A12B0>
-22,Adidas Originales TOBACCO JR2743 Noche Indigo Tenis Zapatos Gamuza Premium,165.17,165.17,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+22,Adidas Originales ZX 750 en Negro/Blanco/Azul Todas las Tallas Stock Limitado,166.45,166.45,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 23,Adidas Originales TOBACCO JR2743 Noche Índigo Noche Índigo,173.16,173.16,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-24,Adidas Originals Sl 72 Sr Blu - Taglia 41 1/3 [7.5 US 25.5cm] Scarpe Uomo,99.9,99.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-25,Adidas Stabil Next Generation Hombre Zapatos de Interior Voleibol Bádminton Nuevos con Etiquetas HR1344,165.52,165.52,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-26,Adidas Originals LA Trainer Hombre en Bermellón Rojo Y Plateado Talla UK 8.5,173.16,173.16,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-27,Adidas Originals ZX 750 Zapatillas En Blanco Roto y Verde Talla UK 13,167.22,167.22,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-28,Zapatillas adidas Originals GAZELLE VINTAGE rojas hombre FU9657,119.9,119.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-29,Adidas Originals Adistar Amortiguador Zapatos en Gris Oscuro y Plateado,175.68,175.68,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-30,GZ4499 Adidas ULTRA 4D SHOES negro zapatos deportivos zapatillas Skrs,139.0,139.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-31,F36641 Adidas Ultraboost 4.0 DNA Negro Zapatillas Deportivas Zapatillas Para Correr Hombre,119.0,149.0,30.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-32,Adidas Hombres 7.5 NMD_V3 BOOST Zapatos Nube Blanco/Gris Dos HP9831 NUEVO,169.48,169.48,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-33,Adidas Copa Pure 2 Elite K Paquete de Energía Solar Beige Rojo Negro IF5443 Hombres Talla 12,138.56,138.56,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-34,"Botines de fútbol sin cordones Adidas X Crazyfast.1 LL FG GY7382 negros para hombre talla 8,5",127.47,127.47,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-35,Adidas Stan Smith Recon Calzado Blanco Off White Mesa IG1279 Talla para hombre,180.05,180.05,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-36,Adidas Originals Country Og Blu - Uomo Scarpe Sneakers Sportive,99.75,99.75,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-37,Adidas Hombres 14 NMD_V3 BOOST Zapatos Nube Blanco/Gris Dos HP9831 NUEVO,169.48,169.48,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-38,Adidas F50 PRO Zapatos de Fútbol Sin Cordones TF Para Hombres Césped IH5814 ✅Tamaño Múltiple✅Acelerado,158.51,158.51,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-39,Adidas adiFOM RADLANDER - Gris / IH7372 / Zapatos para hombre acelerados,148.54,148.54,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-40,Brain Dead × Adidas Originals Stan Smith marrón claro IH3432 talla para hombre,225.31,344.95,119.63999999999999,<built-in method now of type object at 0x00007FFAF86A12B0>
+24,adidas Originals SL 72 RTN Cream White Brown Men Unisex Casual Shoes JQ0957,166.98,166.98,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+25,Adidas Originals Sl 72 Sr Blu - Taglia 41 1/3 [7.5 US 25.5cm] Scarpe Uomo,99.9,99.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+26,Adidas Copa Pure 2 Elite K Paquete de Energía Solar Beige Rojo Negro IF5443 Hombres Talla 12,110.85,110.85,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+27,adidas Originals Samba OG Double White Black Gum Men Unisex Casual Shoes ID1480,154.88,154.88,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+28,Adidas Stabil Next Generation Hombre Zapatos de Interior Voleibol Bádminton Nuevos con Etiquetas HR1344,165.52,165.52,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+29,adidas Adizero Adios Pro 3 M Aurora Ink Flash Aqua Men Racing Running IE6237,231.1,231.1,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+30,Adidas Originales TOBACCO JR2743 Noche Indigo Tenis Zapatos Gamuza Premium,165.17,165.17,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+31,Zapatillas adidas Originals GAZELLE VINTAGE rojas hombre FU9657,119.9,119.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+32,Adidas F50 PRO Zapatos de Fútbol Sin Cordones TF Para Hombres Césped IH5814 ✅Tamaño Múltiple✅Acelerado,158.51,158.51,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+33,GZ4499 Adidas ULTRA 4D SHOES negro zapatos deportivos zapatillas Skrs,139.0,139.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+34,adidas Originals Samba OG Grey Crystal White Blue Gum Men Unisex Casual ID1478,142.42,142.42,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+35,F36641 Adidas Ultraboost 4.0 DNA Negro Zapatillas Deportivas Zapatillas Para Correr Hombre,119.0,149.0,30.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+36,Adidas Stan Smith Recon Calzado Blanco Off White Mesa IG1279 Talla para hombre,180.05,180.05,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+37,Adidas Originals Country Og Blu - Uomo Scarpe Sneakers Sportive,99.75,99.75,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+38,Adidas Originals Gazelle Zapatillas En Verde y Negro Talla UK 13,167.22,167.22,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+39,Brain Dead × Adidas Originals Stan Smith marrón claro IH3432 talla para hombre,225.31,344.95,119.63999999999999,<built-in method now of type object at 0x00007FFAF86A12B0>
+40,Adidas Originals Adistar Amortiguador Zapatos en Blanco y Claro Azul,175.68,175.68,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 41,adidas Adilette Slides KoRn 30th Anniversary,99.9,99.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 42,adidas Originals Retropy E5 Alumina Black White Men Boost Casual Shoes IE8105,102.85,102.85,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 43,Adidas IG8280 Originals Traje Núcleo Negro Maravilla Beige Para Hombre [US9-13] Nuevo,136.61,136.61,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 44,[IG6648] Adidas Harden Vol. para hombre 8 'Después de horas',158.51,166.27,7.760000000000019,<built-in method now of type object at 0x00007FFAF86A12B0>
-45,[IG6668] Zapatos de baloncesto Adidas para hombre Anthony Edwards 1 MX carbón *NUEVOS*,121.93,121.93,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+45,adidas Originals SL 72 RTN Cream White Brown Men Unisex Casual Shoes JQ0957,159.57,159.57,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
 46,adidas Supernova Rise M Core Black Core White CArbon Men Running Shoes IG5844,116.16,116.16,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-47,adidas Ultraboost 19.5 DNA White Blue Men Unisex Running Casual Shoes GY8346,153.61,153.61,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-48,Adidas Harden Vol. para hombre 7 'Blanco Tiza' IE9257 Talla 11,132.97,132.97,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-49,Zapatillas Adidas Originales Japón en Blanco y Negro,161.49,161.49,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-50,Adidas Terrex Free Hiker 2 GTX botas zapatillas zapatos de senderismo para hombre HQ8384,149.9,149.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-51,adidas Neighborhood X Superstar 2024 Hombres Grey White Zapatillas,167.39,167.39,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-52,Adidas Codechaos Mens Golf Shoes (D Standard) (EE9101),111.07,111.07,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-53,Zapatillas para hombre adidas UltraBoost 21 Gore-Tex GTX (S23700) NUEVAS,139.95,139.95,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-54,Scarpe Adidas  Stan Smith Codice M20325 - 9M,106.0,106.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-55,ID8266 Adidas Originals Adimatic Grey One Core Black Grey Three (para hombre),137.98,228.44,90.46000000000001,<built-in method now of type object at 0x00007FFAF86A12B0>
-56,adidas Originals Samba OG Cardboard Brown Men Casual Lifestyle Shoes IG1379,153.99,153.99,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-57,Adidas Pro Model Zapatos JH7147 Preloved Marrón/Núcleo Negro/Marfil,171.82,171.82,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-58,Adidas Originals SL 72 RS Spark Core Negro Blanco IH7912 Hombres Talla,174.13,174.13,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
-59,IH3241 Adidas Originals Jamaica Rusta Negro (Hombre),171.78,294.23,122.45000000000002,<built-in method now of type object at 0x00007FFAF86A12B0>
+47,[IG6668] Zapatos de baloncesto Adidas para hombre Anthony Edwards 1 MX carbón *NUEVOS*,121.93,121.93,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+48,Adidas Originales SL 72 RTN Crema Blanco Marrón Hombres Unisex Zapatos Informales JQ0957,160.73,160.73,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+49,Adidas Adizero Adios Pro 3 M Azul Cobalto Limón Lúcido Hombres Carreras Correr ID3635,229.03,229.03,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+50,adidas Originals Samba OG Double White Black Gum Men Unisex Casual Shoes ID1480,148.39,148.39,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+51,adidas Ultraboost 19.5 DNA White Blue Men Unisex Running Casual Shoes GY8346,153.61,153.61,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+52,Adidas Terrex Free Hiker 2 GTX botas zapatillas zapatos de senderismo para hombre HQ8384,149.9,149.9,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+53,Adidas Originals LA Trainer Hombre en Bermellón Rojo Y Plateado Talla UK 8.5,173.16,173.16,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+54,adidas Neighborhood X Superstar 2024 Hombres Grey White Zapatillas,167.39,167.39,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+55,Adidas Codechaos Mens Golf Shoes (D Standard) (EE9101),111.07,111.07,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+56,Zapatillas para hombre adidas UltraBoost 21 Gore-Tex GTX (S23700) NUEVAS,139.95,139.95,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+57,Scarpe Adidas  Stan Smith Codice M20325 - 9M,106.0,106.0,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+58,Adidas PRIMEKNIT Hombres 12 ULTRABOOST 22 ZAPATILLAS PARA CORRER Linear Energy Negro HQ0965,160.74,160.74,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
+59,Adidas Originals Adistar Amortiguador Zapatos en Gris Oscuro y Plateado,175.68,175.68,0.0,<built-in method now of type object at 0x00007FFAF86A12B0>
