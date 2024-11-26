@@ -213,3 +213,46 @@ def calcular_metricas(y_train, y_test, pred_train, pred_test, ymodelo_nombre):
 
     return pd.DataFrame({"train": metricas_train, "test": metricas_test})
         
+
+def plot_matriz_confusion(matriz_confusion, invertir=True, tamano_grafica=(4, 3), labels=False, label0="", label1="", color="Purples"):
+    """
+    Genera un heatmap para visualizar una matriz de confusión.
+
+    Args:
+        matriz_confusion (numpy.ndarray): Matriz de confusión que se desea graficar.
+        invertir (bool, opcional): Si es True, invierte el orden de las filas y columnas de la matriz
+            para reflejar el eje Y invertido (orden [1, 0] en lugar de [0, 1]). Por defecto, True.
+        tamano_grafica (tuple, opcional): Tamaño de la figura en pulgadas. Por defecto, (4, 3).
+        labels (bool, opcional): Si es True, permite agregar etiquetas personalizadas a las clases
+            utilizando `label0` y `label1`. Por defecto, False.
+        label0 (str, opcional): Etiqueta personalizada para la clase 0 (negativa). Por defecto, "".
+        label1 (str, opcional): Etiqueta personalizada para la clase 1 (positiva). Por defecto, "".
+
+    Returns:
+        None: La función no retorna ningún valor, pero muestra un heatmap con la matriz de confusión.
+
+    Ejemplos:
+>             from sklearn.metrics import confusion_matrix
+>         >>> y_true = [0, 1, 1, 0, 1, 1]
+>         >>> y_pred = [0, 1, 1, 0, 0, 1]
+>         >>> matriz_confusion = confusion_matrix(y_true, y_pred)
+>         >>> plot_matriz_confusion(matriz_confusion, invertir=True, labels=True, label0="Clase Negativa", label1="Clase Positiva")
+    """
+    if invertir == True:
+        plt.figure(figsize=(tamano_grafica))
+        if labels == True:
+            labels = [f'1: {label1}', f'0: {label0}']
+        else:
+            labels = [f'1', f'0']
+        sns.heatmap(matriz_confusion[::-1, ::-1], annot=True, fmt="d", xticklabels=labels, yticklabels=labels, cmap= color)
+        plt.xlabel("Predicción")
+        plt.ylabel("Real");
+    else: 
+        plt.figure(figsize=(tamano_grafica))
+        if labels == True:
+            labels = [f'0: {label0}', f'1: {label1}']
+        else:
+            labels = [f'0', f'1']
+        sns.heatmap(matriz_confusion, annot=True, fmt="d", xticklabels=labels, yticklabels=labels, cmap= color)    
+        plt.xlabel("Predicción")
+        plt.ylabel("Real");  
